@@ -12,5 +12,6 @@ public interface aantal {
     int b();
         int d();
     int k();
+
     }
 

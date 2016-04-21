@@ -9,6 +9,10 @@ public class Car extends Machine {
         System.out.println("car started");
 
     }
+    public void stop() {
+        System.out.println("car started");
+
+    }
 
     public void wipewwindShield() {
         System.out.println("wiping started");

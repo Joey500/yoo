@@ -16,6 +16,7 @@ public class App {
         car1.wipewwindShield();
         car1.showiInfo();
         car1.stop();
+        car1.stop();
 
 
     }
