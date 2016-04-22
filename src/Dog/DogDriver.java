@@ -12,5 +12,6 @@ public class DogDriver {
         System.out.println(corgi.GetAge());
         System.out.println(corgi.hallo());
         System.out.println(corgi.eyeColor());
+        System.out.println(corgi.getBark());
     }
 }

@@ -12,7 +12,7 @@ public class date {
         System.out.printf(str);
         System.out.println (date.getTime());
         // display time and date using toString()
-        //System.out.println(date.toString());
-        //System.out.println(date.toLocaleString());
+        System.out.println(date.toString());
+        System.out.println(date.toLocaleString());
     }
 }
