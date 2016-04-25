@@ -10,6 +10,9 @@ public class bestelling {
         beschikbaar auto1 =new beschikbaar();
         beschikbaar auto2=new beschikbaar("ferrari", "zalwei");
         beschikbaar auto3=new beschikbaar();
+        aantal auto4=new beschikbaar();
+        auto4.hallo();
+
         // methode
         System.out.println(auto1.b());
         System.out.println(auto1.a());
